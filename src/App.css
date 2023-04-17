@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-color: purple;
+  /* height: 100vh; */
+}
+button {
+  font-weight: bold;
+  margin: 0 5px;
+  outline: none;
+  border: none;
+  height: 1.6em;
+  border-radius: 2px;
+}
